@@ -26,7 +26,7 @@ ERD was created using Microsoft  Sql Server Management Studio.
 
 #### Data Analysis
 
-Query files are included to asnwer following questions.
+Query file is included to asnwer following questions.
 
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
@@ -44,3 +44,12 @@ Query files are included to asnwer following questions.
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+### Bonus
+
+Draw bar graph in Jupyter Notebook using sqlalchemy and matplotlib.
+
+### Extra Study
+
+Did further analysis of average salaries of Male vs Female. Results of this analysis is worth looking.
+
+![Imgur Image](https://github.com/ShahzadNaseer/SqlHW7/blob/master/GenderAvgSalaryComparison.png)
