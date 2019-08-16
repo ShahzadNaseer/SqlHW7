@@ -15,8 +15,9 @@ In other words, we will perform:
 
 #### Data Modeling
 
-Table scripts are created after looking the CSVs files and data. Table names are same as CSV file name. 
-ERD was created using Microsoft  Sql Server Management Studio.
+Table scripts are created after looking the CSVs files and data. Table names are same as CSV file name. Table creation scripts are https://github.com/ShahzadNaseer/SqlHW7/blob/master/TableCreatioScripts.sql
+
+ERD was created using Microsoft Sql Server Management Studio. Here is ERD file https://github.com/ShahzadNaseer/SqlHW7/blob/master/ERD-HW7.jpg
 
 #### Data Engineering
 
@@ -26,7 +27,7 @@ ERD was created using Microsoft  Sql Server Management Studio.
 
 #### Data Analysis
 
-Query file is included to asnwer following questions.
+Query file is included to asnwer following questions. Queries are in this file https://github.com/ShahzadNaseer/SqlHW7/blob/master/SqlQueries.sql
 
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
@@ -46,7 +47,7 @@ Query file is included to asnwer following questions.
 
 ### Bonus
 
-Draw bar graph in Jupyter Notebook using sqlalchemy and matplotlib.
+Draw bar graph in Jupyter Notebook using sqlalchemy and matplotlib. Jupyter Notebook is https://github.com/ShahzadNaseer/SqlHW7/blob/master/AvgSalaryByTitle.ipynb
 
 ### Extra Study
 
